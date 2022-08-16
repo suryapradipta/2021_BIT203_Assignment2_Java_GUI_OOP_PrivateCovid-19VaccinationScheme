@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/ClassDiagram" />
+    <content url="file://$MODULE_DIR$/InterfaceDesign" />
+    <content url="file://$MODULE_DIR$/JavaDoc" />
+    <content url="file://$MODULE_DIR$/PCVS" />
+    <content url="file://$MODULE_DIR$/RunnableJar" />
+    <content url="file://$MODULE_DIR$/SavedFile" />
+    <content url="file://$MODULE_DIR$/bin" />
+    <content url="file://$MODULE_DIR$/src">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
